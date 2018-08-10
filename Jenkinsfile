@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('error') {
       steps {
-        echo 'hola'
+        echo 'holaifsahfjsafosa'
       }
     }
   }
